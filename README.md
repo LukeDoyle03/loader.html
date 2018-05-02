@@ -1,4 +1,5 @@
-
+<DOCTYPE
+html>
 <main>
    <div class="dank-ass-loader">
       <div class="row">
